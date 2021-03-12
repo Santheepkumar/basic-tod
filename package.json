@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-style": "postcss ./src/css/tailwind.css --o ./src/css/style.css",
-    "start": "cd src && live-server --port=3000"
+    "build-style": "postcss ./css/tailwind.css --o ./css/style.css",
+    "start": "live-server --port=3000"
   },
   "keywords": [],
   "author": "",
